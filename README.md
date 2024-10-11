@@ -1,4 +1,5 @@
-这个工具的数据来源是https://zjj.sz.gov.cn:8004/【深圳房地产信息平台】，该平台每天会公布前一天的深圳一手房和二手房网签数据。
+这个工具的数据来源是【深圳房地产信息平台】https://zjj.sz.gov.cn:8004/
+该平台每天会公布前一天的深圳一手房和二手房网签数据。
 
 执行python szzfxxw.py 会从上述地址去获取每日新鲜数据
 ![1728627145724](https://github.com/user-attachments/assets/3a531352-c6ac-43f5-97a4-9ab28d006c7b)
