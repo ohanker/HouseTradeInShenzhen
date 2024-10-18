@@ -13,4 +13,8 @@
 ![combined_old_pie_chart](https://github.com/user-attachments/assets/18fdb18c-333d-4a92-9b55-fd6a99dbb947)
 ![all_trends](https://github.com/user-attachments/assets/e39262d2-6dad-4b1c-a09c-083674174a2f)
 
+使用GUI工具可以同步漏掉的最近几天的数据，以及可以查询官方的每个小区的指导价，以及可以按月统计成交数据
+![1729231557636](https://github.com/user-attachments/assets/9ba8d859-a0de-4543-867d-6f4bdd4506dc)
+
+
 
