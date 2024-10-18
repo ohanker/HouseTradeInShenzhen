@@ -7,3 +7,10 @@
 而如果你没有每日跟踪，有数据遗漏，你可以执行 python queryGuidePrice.py 去从一个微博账号获取他发布的数据
 在图形界面填写 需要更新的最近几条数据即可，当然如果对方微博账号也没有按时发布数据，只能你自己从其他渠道来补全数据了
 另外我把官方之前的二手房指导价薅下来放在了excel里面，现在已经失去了指导意义。
+下面是根据需要生成的统计数据图表
+![weekly_data_residential](https://github.com/user-attachments/assets/890d30eb-10d1-4661-b40e-b058540ed4eb)
+![daily_total_house_data](https://github.com/user-attachments/assets/b4ee05d5-9457-4433-adcb-448bb87dc031)
+![combined_old_pie_chart](https://github.com/user-attachments/assets/18fdb18c-333d-4a92-9b55-fd6a99dbb947)
+![all_trends](https://github.com/user-attachments/assets/e39262d2-6dad-4b1c-a09c-083674174a2f)
+
+
